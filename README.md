@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-original-wordmark.svg">
 </div>
 
 ##
