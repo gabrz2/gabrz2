@@ -1,6 +1,6 @@
 ## Oi eu sou Gabriel Amora 👋
 
-- 📚 Estudando Lua 
+- 📚 Atualmente estou estudando Lua 
 - 💼 Atualmente produzindo um Minigame Transformice 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrz2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
