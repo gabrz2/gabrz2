@@ -7,7 +7,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gabe-lua" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
-  <img align="center" alt="gabe-c++" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
 </div>
 
   ##
