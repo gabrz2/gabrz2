@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrz2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="gabe-lua" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+  <img align="center" alt="gabe-lua" height="70" width="80" src="https://raw.githubusercontent.com/gabrz2/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-plain-wordmark.svg">
 </div>
 
   ##
